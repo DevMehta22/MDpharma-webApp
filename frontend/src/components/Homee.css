@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  margin: 70px;
+}
+h1 {
+  font-size: 60px;
+  font-style: italic;
+  font-weight: bold;
+  color: rgb(2, 13, 18);
+  font-family: cursive;
+  text-align: center;
+  text-shadow: 0px 0px 10px rgb(23, 155, 199);
+}
+.sub {
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+  font-style: italic;
+}
+.buttons {
+  text-align: center;
+}
+#id1 {
+  font-size: larger;
+  color: rgb(233, 247, 241);
+  font-weight: 700;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-bottom: 40px;
+  margin-top: 8%;
+}
+#id1:hover {
+  box-shadow: 0px 0px 10px rgb(24, 199, 208);
+  width: fit-content;
+  margin-left: 42%;
+  padding: 5px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
